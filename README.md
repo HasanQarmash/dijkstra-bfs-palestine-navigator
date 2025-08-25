@@ -53,8 +53,8 @@ This project implements two fundamental graph traversal algorithms - **Dijkstra'
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/palestinian-cities-pathfinding.git
-   cd palestinian-cities-pathfinding
+   git clone[ https://github.com/yourusername/palestinian-cities-pathfinding.git](https://github.com/HasanQarmash/dijkstra-bfs-palestine-navigator.git)
+   cd dijkstra-bfs-palestine-navigator
    ```
 
 2. **Compile the program**
