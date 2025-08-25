@@ -1,0 +1,10 @@
+
+---------------------------------
+shortest path by BFS method
+-> Qalqilya-> Jaffa-> Ramallah
+---------------------------------
+
+---------------------------------
+shortest path by Dijkstra method
+-> Qalqilya-> Salfit-> Ramallah
+---------------------------------

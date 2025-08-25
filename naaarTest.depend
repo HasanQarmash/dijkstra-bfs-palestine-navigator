@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1688913164 source:c:\users\qarma\desktop\testproj\naaartest\main.c
+	<stdio.h>
+	<stdbool.h>
+	<limits.h>
+	<string.h>
+
