@@ -159,24 +159,6 @@ shortest path by Dijkstra method
 ---------------------------------
 ```
 
-## 🎓 Learning Outcomes
-
-This project demonstrates proficiency in:
-
-- **📚 Data Structures**: Graph representation using adjacency matrices
-- **🧠 Algorithm Design**: Implementation of classic pathfinding algorithms
-- **💻 C Programming**: Advanced C concepts including file I/O, dynamic arrays, and string manipulation
-- **🔧 Problem Solving**: Real-world application of theoretical computer science concepts
-- **📝 Software Documentation**: Comprehensive code documentation and user guides
-
-## 🤝 Contributing
-
-This is an academic project, but suggestions and improvements are welcome! Please feel free to:
-
-1. 🍴 Fork the repository
-2. 🔧 Create a feature branch
-3. 💻 Make your improvements
-4. 📤 Submit a pull request
 
 ## 📜 License
 
